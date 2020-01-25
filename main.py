@@ -21,5 +21,3 @@ f = sample(range(0, 100), 10)
 print(f)
 print(f.pop())
 print(f)
-
-# Comment
